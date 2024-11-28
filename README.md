@@ -49,7 +49,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado **Python 3.x**: Pue
 ---
 
 ### 2. Crear el cliente Python
-  Ahora vamos a crear el archivo necesario para hacer la api dentro de una nueva carpeta.
+  Ahora vamos a crear el archivo necesario para hacer la api, abrimos una nueva terminal y creamos una nueva carpeta.
 
   Una vez dentro de esta, creamos un entorno virtual (lo llamaré `myenv` para evitar conflictos con otros proyectos:
   ```bash
