@@ -120,7 +120,7 @@ Kiriss a sonido de la victoria vómito por cómo Ana mostraba su adoración haci
 
 ---
 
-# Ejemplo con el modelo
+# Ejemplo con el modelo gpt-neo-1.3B
 ## Entrada:
 ```python
 Hola, conmigo puedes crear una historia en segundos!!!
