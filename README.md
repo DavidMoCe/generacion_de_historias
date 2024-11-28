@@ -153,9 +153,38 @@ whelp, los expolio ’srean. de la misma manera que en Brampton loans que negoci
 
 ---
 
+# Ejemplo con el modelo 
+## Entrada:
+```python
+Hola, conmigo puedes crear una historia en segundos!!!
+
+Especifica los datos de la historia que quieres crear
+Nombre del presonaje principal: Elsa
+
+Nombre del personaje secundario: Marcos
+
+¿En qué lugar se desarrolla esta grandiosa historia? O no, quien sabe...: en un bosque del país vasco
+
+Acción importante que ocurre en la historia: encuentran unas raices mágicas
+
+Selecciona el nivel de creatividad:
+a) Creatividad alta
+b) Creatividad media
+c) Creatividad baja
+
+Elige una opción :b
+```
+
+## Salida:
+```python
+
+```
+
+---
+
 # Recursos adiccionales
    - [Repositorio oficial de Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
    - [Guía para descargar modelos en Hugging Face](https://huggingface.co/models)
    - [Modelo Qwen_Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
    - [Modelo gpt-neo-1.3B](https://huggingface.co/EleutherAI/gpt-neo-1.3B)
-   - 
+   - [Modelo ](https://huggingface.co/tiiuae/falcon-mamba-7b)
