@@ -120,6 +120,39 @@ Kiriss a sonido de la victoria vómito por cómo Ana mostraba su adoración haci
 
 ---
 
+# Ejemplo con el modelo
+## Entrada:
+```python
+Hola, conmigo puedes crear una historia en segundos!!!
+
+Especifica los datos de la historia que quieres crear
+Nombre del presonaje principal: Manolo
+
+Nombre del personaje secundario: Doraemon
+
+¿En qué lugar se desarrolla esta grandiosa historia? O no, quien sabe...: una isla flotante
+
+Acción importante que ocurre en la historia: Crean una civilizacion
+
+Selecciona el nivel de creatividad:
+a) Creatividad alta
+b) Creatividad media
+c) Creatividad baja
+
+Elige una opción :b
+```
+
+## Salida:
+```python
+Generando historia...
+
+Son inclinados a distraer a sus lectores. Recuerdan cosas que dicen en el lib Brazil vs Vera Cruz. Es insípido. Manolo goza de inmenso respeto. Y Doraemon, se llama Secundario. Tan obsesives se les dirá una cuenta cuando hablen unos a otros... Manolo se sustenta. Doraemon sabe lo que se antoja. Lo valora la vida. ¿Puedes perjudicarlo? Perjudica al señor Esteban un miserable monólogo. Pero sobre todo bue. Claro... Saldremos fallecidos. Somos monstruos, luvis negras inmunes... ¿Por qué no harían daño con las estatuas de terciopelo con thou? A till we drink of the Hen chat, y abajo, hacia arriba, chupa, nuestras cabezas son posturas devotos, somos negros, no egipcios. Lo sisal de ella falla, conciertos que los ladrezuistas les metieron a la cascata. Pero ella, más allá de lo que King kidding. Pero pocas personas tienen cosas así. O te mando a contestar ante quién nos convierte.
+
+whelp, los expolio ’srean. de la misma manera que en Brampton loans que negociaran te. hoy, por el contundio, no se recivieran entrada en mayo. es asi. pues todo, me digo. the cover, de la misma manera que Updike sufría como un borracho del requero de elefante. tienen un anzuelo. tienen un anzuelo. porque NO LO HAN PASADO. porque N FORES LO HAN PASADO.. esto es solo porque no te gracia. Es demasiado. porque los han pasado. en verdad, hay que reconocer la cosa a los eventos. los han pasado once. para ir con la ansiedad del entorno
+```
+
+---
+
 # Recursos adiccionales
    - [Repositorio oficial de Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
    - [Guía para descargar modelos en Hugging Face](https://huggingface.co/models)
