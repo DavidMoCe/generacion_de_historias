@@ -117,3 +117,9 @@ Algo que le parecía emocionante y que le absorbía de su respiración, era la p
 
 Kiriss a sonido de la victoria vómito por cómo Ana mostraba su adoración hacia David. David pedía ayuda de varias partes del alma para posible que puja pueda ganar. Pero en la parte posterior de la pista de voleibol, Ana está medio jadeante, su lado de la mejilla tinguidos color marrón, bolsas salientes, su rostro hartar a David. Más aún, su rostro estaba igual de notable. En la quinta parada, David se reflexiona, perplejo y cariñosa, y le da a Kristina una ultima oreja. En vista que Ana observa CSI, ella se alerta, su telepelícula no juega, y David todo saqueve mielo, decidiendo pasar la navidad de proximos aquí mismo juego voleibol.
 ```
+
+---
+
+# Recursos adiccionales
+   - [Repositorio oficial de Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
+   - [Guía para descargar modelos en Hugging Face](https://huggingface.co/models)
