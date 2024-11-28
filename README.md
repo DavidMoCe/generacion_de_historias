@@ -123,6 +123,6 @@ Kiriss a sonido de la victoria vómito por cómo Ana mostraba su adoración haci
 # Recursos adiccionales
    - [Repositorio oficial de Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
    - [Guía para descargar modelos en Hugging Face](https://huggingface.co/models)
-   - [Modelo Qwen_Qwen2.5-1.5B-Instruct](git clone https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
+   - [Modelo Qwen_Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
    - [Modelo Marco-o1](https://huggingface.co/AIDC-AI/Marco-o1)
    - 
