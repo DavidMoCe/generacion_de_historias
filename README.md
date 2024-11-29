@@ -191,6 +191,12 @@ whelp, los expolio ’srean. de la misma manera que en Brampton loans que negoci
 
 ---
 
+# Conclusión
+El modelo que mejor a trabajado y a dado mejores historias a sido `Qwen_Qwen2.5-1.5B-Instruct`, aunque en el modo `Creatividad alta` los dos modelos han tabajado de una manera no muy buena. En el modo `Creatividad media` ambos han sacado una historia decente teniendo en cuenta que no son modelos muy potentes.
+En el modo que si a sobre salido el modelo `Qwen_Qwen2.5-1.5B-Instruct` a sido en el de `Creatividad baja` sacando una historia bastante buena en comparación con las pruebas anteriores.
+
+---
+
 # Recursos adiccionales
    - [Repositorio oficial de Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
    - [Guía para descargar modelos en Hugging Face](https://huggingface.co/models)
