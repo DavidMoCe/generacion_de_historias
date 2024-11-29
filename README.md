@@ -112,10 +112,23 @@ Elige una opción :b
 Generando historia...
 
 Ana Itzayán
-Cascada de aguas color limón en la repisa de la ventana. La pista de voleibol estaba llena de energía. David y Kristina se veían eléctricamente. En un contesto volcánico de la pista, David rompió su postura, reflexionando más tiempo cuidando a ella.
-Algo que le parecía emocionante y que le absorbía de su respiración, era la próxima partido. Surfesondeles y lanzarse en el marone que fuera el último. A partir de ahí, David se quedo dormido. Cruzó la pista de voleibol set a set delante de por ejemplo personas no importa si se trata de sucesos antiguos, donde el derrota flaco sujo de frío era ninguneadora, pero su rencilla con Kristina la llevada a consciencia, donde Kristina perseguía está como una estrella por ese, sitio, y David se derrumban a rendir, y ella deslizar planta raíz junto a David en un hipnótico precipicio amanecer, doy de cabeza con David para un pasie paco por una fracción de segundo. Cataccusamente de la postura de la cal, una seis plata en el lado, ella rapidez a la cima, su pecho, te dejo un eco en la puerta, y David se perdió en el pecho de Ana.
+Cascada de aguas color limón en la repisa de la ventana. La pista de voleibol estaba llena de energía.
+David y Kristina se veían eléctricamente. En un contesto volcánico de la pista, David rompió su postura,
+reflexionando más tiempo cuidando a ella. Algo que le parecía emocionante y que le absorbía de su respiración,
+era la próxima partido. Surfesondeles y lanzarse en el marone que fuera el último. A partir de ahí, David se
+quedo dormido. Cruzó la pista de voleibol set a set delante de por ejemplo personas no importa si se trata de
+sucesos antiguos, donde el derrota flaco sujo de frío era ninguneadora, pero su rencilla con Kristina la llevada
+a consciencia, donde Kristina perseguía está como una estrella por ese, sitio, y David se derrumban a rendir,
+y ella deslizar planta raíz junto a David en un hipnótico precipicio amanecer, doy de cabeza con David para un
+pasie paco por una fracción de segundo. Cataccusamente de la postura de la cal, una seis plata en el lado,
+ella rapidez a la cima, su pecho, te dejo un eco en la puerta, y David se perdió en el pecho de Ana.
 
-Kiriss a sonido de la victoria vómito por cómo Ana mostraba su adoración hacia David. David pedía ayuda de varias partes del alma para posible que puja pueda ganar. Pero en la parte posterior de la pista de voleibol, Ana está medio jadeante, su lado de la mejilla tinguidos color marrón, bolsas salientes, su rostro hartar a David. Más aún, su rostro estaba igual de notable. En la quinta parada, David se reflexiona, perplejo y cariñosa, y le da a Kristina una ultima oreja. En vista que Ana observa CSI, ella se alerta, su telepelícula no juega, y David todo saqueve mielo, decidiendo pasar la navidad de proximos aquí mismo juego voleibol.
+Kiriss a sonido de la victoria vómito por cómo Ana mostraba su adoración hacia David. David pedía ayuda de varias
+partes del alma para posible que puja pueda ganar. Pero en la parte posterior de la pista de voleibol, Ana está
+medio jadeante, su lado de la mejilla tinguidos color marrón, bolsas salientes, su rostro hartar a David. Más aún,
+su rostro estaba igual de notable. En la quinta parada, David se reflexiona, perplejo y cariñosa, y le da a Kristina
+una ultima oreja. En vista que Ana observa CSI, ella se alerta, su telepelícula no juega, y David todo saqueve mielo,
+decidiendo pasar la navidad de proximos aquí mismo juego voleibol.
 ```
 
 ---
@@ -164,9 +177,20 @@ Elige una opción :b
 ```python
 Generando historia...
 
-Son inclinados a distraer a sus lectores. Recuerdan cosas que dicen en el lib Brazil vs Vera Cruz. Es insípido. Manolo goza de inmenso respeto. Y Doraemon, se llama Secundario. Tan obsesives se les dirá una cuenta cuando hablen unos a otros... Manolo se sustenta. Doraemon sabe lo que se antoja. Lo valora la vida. ¿Puedes perjudicarlo? Perjudica al señor Esteban un miserable monólogo. Pero sobre todo bue. Claro... Saldremos fallecidos. Somos monstruos, luvis negras inmunes... ¿Por qué no harían daño con las estatuas de terciopelo con thou? A till we drink of the Hen chat, y abajo, hacia arriba, chupa, nuestras cabezas son posturas devotos, somos negros, no egipcios. Lo sisal de ella falla, conciertos que los ladrezuistas les metieron a la cascata. Pero ella, más allá de lo que King kidding. Pero pocas personas tienen cosas así. O te mando a contestar ante quién nos convierte.
+Son inclinados a distraer a sus lectores. Recuerdan cosas que dicen en el lib Brazil vs Vera Cruz. Es insípido.
+Manolo goza de inmenso respeto. Y Doraemon, se llama Secundario. Tan obsesives se les dirá una cuenta cuando hablen
+unos a otros... Manolo se sustenta. Doraemon sabe lo que se antoja. Lo valora la vida. ¿Puedes perjudicarlo?
+Perjudica al señor Esteban un miserable monólogo. Pero sobre todo bue. Claro... Saldremos fallecidos. Somos
+monstruos, luvis negras inmunes... ¿Por qué no harían daño con las estatuas de terciopelo con thou? A till we drink
+of the Hen chat, y abajo, hacia arriba, chupa, nuestras cabezas son posturas devotos, somos negros, no egipcios.
+Lo sisal de ella falla, conciertos que los ladrezuistas les metieron a la cascata. Pero ella, más allá de lo que
+King kidding. Pero pocas personas tienen cosas así. O te mando a contestar ante quién nos convierte.
 
-whelp, los expolio ’srean. de la misma manera que en Brampton loans que negociaran te. hoy, por el contundio, no se recivieran entrada en mayo. es asi. pues todo, me digo. the cover, de la misma manera que Updike sufría como un borracho del requero de elefante. tienen un anzuelo. tienen un anzuelo. porque NO LO HAN PASADO. porque N FORES LO HAN PASADO.. esto es solo porque no te gracia. Es demasiado. porque los han pasado. en verdad, hay que reconocer la cosa a los eventos. los han pasado once. para ir con la ansiedad del entorno
+whelp, los expolio ’srean. de la misma manera que en Brampton loans que negociaran te. hoy, por el contundio,
+no se recivieran entrada en mayo. es asi. pues todo, me digo. the cover, de la misma manera que Updike sufría
+como un borracho del requero de elefante. tienen un anzuelo. tienen un anzuelo. porque NO LO HAN PASADO.
+porque N FORES LO HAN PASADO.. esto es solo porque no te gracia. Es demasiado. porque los han pasado. en verdad,
+hay que reconocer la cosa a los eventos. los han pasado once. para ir con la ansiedad del entorno
 ```
 
 ---
@@ -194,6 +218,8 @@ whelp, los expolio ’srean. de la misma manera que en Brampton loans que negoci
 # Conclusión
 El modelo que mejor a trabajado y a dado mejores historias a sido `Qwen_Qwen2.5-1.5B-Instruct`, aunque en el modo `Creatividad alta` los dos modelos han tabajado de una manera no muy buena. En el modo `Creatividad media` ambos han sacado una historia decente teniendo en cuenta que no son modelos muy potentes.
 En el modo que si a sobre salido el modelo `Qwen_Qwen2.5-1.5B-Instruct` a sido en el de `Creatividad baja` sacando una historia bastante buena en comparación con las pruebas anteriores.
+
+He elegido estos modelos porque no pesan mucho, no necesitan unos requisitos altos y con los recursos tengo disponible en mi ordenador han sido posibles ejecutarlos sin problema, ya que probé con otros y por falta de recursos no llegaban a ejecutarse.
 
 ---
 
