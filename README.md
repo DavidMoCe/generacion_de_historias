@@ -85,7 +85,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado **Python 3.x**: Pue
 
 ---
 
-# Ejemplo con el modelo Qwen_Qwen2.5-1.5B-Instruct
+# Ejemplo 1 con el modelo Qwen_Qwen2.5-1.5B-Instruct
 ## Entrada:
 
 ```python
@@ -120,7 +120,25 @@ Kiriss a sonido de la victoria vómito por cómo Ana mostraba su adoración haci
 
 ---
 
-# Ejemplo con el modelo gpt-neo-1.3B
+# Ejemplo 2 con el modelo Qwen_Qwen2.5-1.5B-Instruct
+## Entrada:
+![Captura de pantalla 2024-11-29 125556](https://github.com/user-attachments/assets/4aa9a95a-2f98-4ae7-9729-3fc4a6001a1c)
+
+## Salida:
+![Captura de pantalla 2024-11-29 125658](https://github.com/user-attachments/assets/ea7f0b35-a9fd-4c43-95ec-56811909c66b)
+
+---
+
+# Ejemplo 3 con el modelo Qwen_Qwen2.5-1.5B-Instruct
+## Entrada:
+![Captura de pantalla 2024-11-29 131616](https://github.com/user-attachments/assets/241258a2-1431-4398-828d-e7d927fac177)
+
+## Salida:
+![Captura de pantalla 2024-11-29 132143](https://github.com/user-attachments/assets/3d041902-d9c8-4836-887d-cb3707670770)
+
+---
+
+# Ejemplo 1 con el modelo gpt-neo-1.3B
 ## Entrada:
 ```python
 Hola, conmigo puedes crear una historia en segundos!!!
@@ -150,6 +168,26 @@ Son inclinados a distraer a sus lectores. Recuerdan cosas que dicen en el lib Br
 
 whelp, los expolio ’srean. de la misma manera que en Brampton loans que negociaran te. hoy, por el contundio, no se recivieran entrada en mayo. es asi. pues todo, me digo. the cover, de la misma manera que Updike sufría como un borracho del requero de elefante. tienen un anzuelo. tienen un anzuelo. porque NO LO HAN PASADO. porque N FORES LO HAN PASADO.. esto es solo porque no te gracia. Es demasiado. porque los han pasado. en verdad, hay que reconocer la cosa a los eventos. los han pasado once. para ir con la ansiedad del entorno
 ```
+
+---
+
+# Ejemplo 2 con el modelo gpt-neo-1.3B
+## Entrada:
+
+![Captura de pantalla 2024-11-29 134140](https://github.com/user-attachments/assets/8fde752d-dc9a-4c4f-87e9-222d6efc8907)
+
+## Salida:
+
+![Captura de pantalla 2024-11-29 134154](https://github.com/user-attachments/assets/804ccf2e-17a0-4ae0-90a4-1a7ea177e5d9)
+
+---
+
+# Ejemplo 3 con el modelo gpt-neo-1.3B
+## Entrada:
+![Captura de pantalla 2024-11-29 140204](https://github.com/user-attachments/assets/c74bdfa4-220d-4862-857b-faeeeabcd239)
+
+## Salida:
+![Captura de pantalla 2024-11-29 140215](https://github.com/user-attachments/assets/2d64d696-c542-496a-b26d-ea5acbe8a7c3)
 
 ---
 
