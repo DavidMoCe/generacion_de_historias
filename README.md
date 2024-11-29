@@ -4,7 +4,7 @@ Este proyecto permite generar historias de manera interactiva utilizando la API 
 ## Descripción
 Con este generador, puedes crear historias con tres niveles de creatividad:
 - **Alta creatividad**: Genera historias más impredecibles y originales.
-- **Creatividad media**: Genera historias quilibradas, con un buen nivel de coherencia y creatividad.
+- **Creatividad media**: Genera historias equilibradas, con un buen nivel de coherencia y creatividad.
 - **Baja creatividad**: Genera historias más predecibles y formales.
 
 Este proyecto consta de dos partes principales:
@@ -92,7 +92,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado **Python 3.x**: Pue
 Hola, conmigo puedes crear una historia en segundos!!!
 
 Especifica los datos de la historia que quieres crear
-Nombre del presonaje principal: david
+Nombre del personaje principal: david
 
 Nombre del personaje secundario: cristina
 
