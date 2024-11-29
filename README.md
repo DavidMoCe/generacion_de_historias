@@ -223,7 +223,7 @@ He elegido estos modelos porque no pesan mucho, no necesitan unos requisitos alt
 
 ---
 
-# Recursos adiccionales
+# Recursos utilizados
    - [Repositorio oficial de Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
    - [Guía para descargar modelos en Hugging Face](https://huggingface.co/models)
    - [Modelo Qwen_Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
