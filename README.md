@@ -228,3 +228,9 @@ He elegido estos modelos porque no pesan mucho, no necesitan unos requisitos alt
    - [Guía para descargar modelos en Hugging Face](https://huggingface.co/models)
    - [Modelo Qwen_Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
    - [Modelo gpt-neo-1.3B](https://huggingface.co/EleutherAI/gpt-neo-1.3B)
+
+# 📜 Licencia
+Este proyecto está licenciado bajo la licencia **CC BY-NC 4.0**. Consulta el archivo [`LICENSE`](https://github.com/DavidMoCe/asistencia/blob/main/LICENSE.txt) para más detalles.
+
+# ❤️ Créditos
+Desarrollado por **David Moreno Cerezo**.
